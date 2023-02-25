@@ -1,0 +1,109 @@
+{
+    "title": "Home Page",
+    "description": "",
+    "home-page-banner": {
+        "bgImage": "background-image:url(assets/imgs/placeholders/img-15.jpg)",
+        "title": "Committed to People <br />Committed <span class='text-blue-500'>to the Future</span>",
+        "sub_title": "We are<strong class='text-blue-500'>Monst</strong>, a Creative Design",
+        "buttons" : [
+            {"class": "bg-blue-400 tracking-wide hover-up-2 block sm:inline-block py-4 px-8 mb-4 sm:mb-0 sm:mr-3 text-xs text-white text-center font-semibold leading-none hover:bg-blue-500 rounded wow animate__animated animate__fadeIn", "label": "Key Features", "link": ""},
+            {"class": "tracking-wide hover-up-2 block sm:inline-block py-4 px-8 text-xs text-blueGray-500 hover:text-blueGray-600 text-center font-semibold leading-none bg-white rounded wow animate__animated animate__fadeIn", "label": "How We Work", "link": ""}
+        ],
+        "logos": [
+            {"alt": "1", "url": "brand-1.png", "link": "1"},
+            {"alt": "2", "url": "brand-2.png", "link": "2"},
+            {"alt": "3", "url": "brand-3.png", "link": ""},
+            {"alt": "4", "url": "brand-4.png", "link": ""},
+            {"alt": "5", "url": "brand-5.png", "link": ""}
+        ]
+    },
+    "features": {
+        "title": "We Consultant to Get <br /><span class='text-blue-500'>Our Business</span> Plan",
+        "description": "Business solution company sit our any how site used the our company any site us it-solve theme is very professional",
+        "featureList": [
+            {
+                "id": 1,
+                "icon": "fa fa-tree",
+                "label": "IT Consultancy",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 2,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Web Development",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 3,
+                "icon": "fa fa-filter fa-solid",
+                "label": "App Development",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 4,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Digital Marketing",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 5,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Right Solutions",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 6,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Responsive Site",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 7,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Clean Designe",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            },
+            {
+                "id": 8,
+                "icon": "fa fa-filter fa-solid",
+                "label": "Process Research",
+                "description": "We believe brand interaction is key to communication. Real innovations and positive customer experience are the heart of success."
+            }
+        ]
+    },
+    "how-we-work": {
+        "title": "<span>We are </span><span class='text-blue-500'>awesome team </span><br /><span>for your business dream</span>",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed luctus eget justo et iaculis. Quisque vitae nulla malesuada, auctor arcu vitae, luctus nisi. Sed elementum vitae ligula id imperdiet.",
+        "data_list": [
+            {
+                "id": 1,
+                "title": "Project Initialization",
+                "description": "Project initiation ensures that you lay a strong foundation for a new project in your company our team.",
+                "img": "assets/imgs/illustrations/eating.svg"
+            },
+            {
+                "id": 2,
+                "title": "Project planning",
+                "description": "A project plan is essential to keep everything related to the project organized, methodical, and on track.",
+                "img": "assets/imgs/illustrations/space.svg"
+            },
+            {
+                "id": 3,
+                "title": "Project organization",
+                "description": "Moving forward you will be able to keep yourself and your team on track, and address challenges early.",
+                "img": "assets/imgs/illustrations/tasks.svg"
+            }
+        ]
+    },
+    "home-feature": {
+        "key_left_features" : [
+            { "icon": "fa fa-people-group", "title": "Looking for Creative", "sub_title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."},
+            { "icon": "fa fa-truck", "title": "Project Initialization", "sub_title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."}
+        ],
+        "key_features" : [
+            { "icon": "fa fa-atom", "title": "Expand Your Reach", "sub_title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis expedita animi."},
+            { "icon": "fa fa-bar-chart", "title": "Annualized Growth", "sub_title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis expedita animi."},
+            { "icon": "fa fa-key", "title": "Book Your Providers", "sub_title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis expedita animi."}
+        ]
+    }
+}

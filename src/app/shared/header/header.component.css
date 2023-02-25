@@ -1,0 +1,14 @@
+header.top-header {
+    background: #0379A5;
+    padding: 10px 20px;
+}
+nav.logo-text {
+    color: #fff;
+    font-size: 25px;
+    font-weight: normal;
+}
+
+header.sub-header {
+    background: #1DB8F1;
+    padding: 10px 20px;
+}

@@ -1,0 +1,22 @@
+<section class="mt-12" id="key-features">
+  <div class="container">
+    <div class="max-w-lg mx-auto mb-12 text-center">
+      <h2 class="my-2 text-3xl md:text-4xl font-bold font-heading wow animate__animated animate__fadeIn"
+        data-wow-delay=".1s" [innerHTML]="features.title"></h2>
+      <p class="text-blueGray-400 leading-loose wow animate__animated animate__fadeIn" data-wow-delay=".3s">{{ features.description }}</p>
+    </div>
+    <div class="flex flex-wrap -mx-3 mb-6">
+      <div class="w-full md:w-1/2 lg:w-1/4 px-3 mb-6" *ngFor="let feature of features.featureList">
+        <div
+          class="border border-gray-100 pt-8 px-6 pb-6 bg-white text-center rounded shadow hover:shadow-lg hover-up-2 transition duration-500 wow animate__animated animate__fadeIn"
+          data-wow-delay=".3s">
+          <div class="text-blue-500 mx-auto mb-4 text-base-2"><i class="{{ feature.icon }}"></i></div>
+            <h3 class="mb-2 font-bold font-heading">{{ feature.label }}</h3>
+            <p class="text-sm text-blueGray-400">{{ feature.description }}</p>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+</section>
